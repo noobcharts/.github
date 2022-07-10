@@ -1,0 +1,3621 @@
+{
+  "list": [
+    {
+      "name": "mariadb",
+      "description": "Fast, reliable, scalable, and easy to use open-source relational database system.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "dependency",
+      "icon": "https://truecharts.org/_static/img/appicons/mariadb.png",
+      "latest_ver": "3.0.22",
+      "vers": [
+        "3.0.22"
+      ]
+    },
+    {
+      "name": "memcached",
+      "description": "Memcached is a memory-backed database caching solution\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "dependency",
+      "icon": "https://truecharts.org/_static/img/appicons/memcached.png",
+      "latest_ver": "3.0.22",
+      "vers": [
+        "3.0.22"
+      ]
+    },
+    {
+      "name": "mongodb",
+      "description": "Fast, reliable, scalable, and easy to use open-source no-sql database system.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "dependency",
+      "icon": "https://truecharts.org/_static/img/appicons/mongodb.png",
+      "latest_ver": "1.0.25",
+      "vers": [
+        "1.0.25"
+      ]
+    },
+    {
+      "name": "postgresql",
+      "description": "PostgresSQL\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "dependency",
+      "icon": "https://truecharts.org/_static/img/appicons/postgresql.png",
+      "latest_ver": "8.0.23",
+      "vers": [
+        "8.0.23"
+      ]
+    },
+    {
+      "name": "promtail",
+      "description": "Promtail is an agent which ships the contents of local logs to a Loki instance\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "dependency",
+      "icon": "https://truecharts.org/_static/img/appicons/promtail.png",
+      "latest_ver": "3.0.15",
+      "vers": [
+        "3.0.15"
+      ]
+    },
+    {
+      "name": "redis",
+      "description": "Open source, advanced key-value store.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "dependency",
+      "icon": "https://truecharts.org/_static/img/appicons/redis.png",
+      "latest_ver": "3.0.23",
+      "vers": [
+        "3.0.23"
+      ]
+    },
+    {
+      "name": "adguard-home",
+      "description": "Free and open source, powerful network-wide ads & trackers blocking DNS server.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/adguard-home.png",
+      "latest_ver": "1.0.8",
+      "vers": [
+        "1.0.8"
+      ]
+    },
+    {
+      "name": "appsmith",
+      "description": "Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop UI components to build pages, connect to any API, database or GraphQL source and write logic with JavaScript objects.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/appsmith.png",
+      "latest_ver": "2.0.13",
+      "vers": [
+        "2.0.13"
+      ]
+    },
+    {
+      "name": "ariang",
+      "description": "A modern web frontend making aria2 easier to use | Aria2 WebUI.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/ariang.png",
+      "latest_ver": "0.0.1",
+      "vers": [
+        "0.0.1"
+      ]
+    },
+    {
+      "name": "authentik",
+      "description": "authentik is an open-source Identity Provider focused on flexibility and versatility.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/authentik.png",
+      "latest_ver": "2.0.13",
+      "vers": [
+        "2.0.13"
+      ]
+    },
+    {
+      "name": "avidemux",
+      "description": "Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/avidemux.png",
+      "latest_ver": "0.0.1",
+      "vers": [
+        "0.0.1"
+      ]
+    },
+    {
+      "name": "awesome-ttrss",
+      "description": "Awesome TTRSS aims to provide a powerful Dockerized all-in-one solution for Tiny Tiny RSS\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/awesome-ttrss.png",
+      "latest_ver": "0.0.10",
+      "vers": [
+        "0.0.10"
+      ]
+    },
+    {
+      "name": "cloudflared",
+      "description": "Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/cloudflared.png",
+      "latest_ver": "0.0.4",
+      "vers": [
+        "0.0.4"
+      ]
+    },
+    {
+      "name": "cloudflareddns",
+      "description": "Update your Cloudflare DNS records using dynamically\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/cloudflareddns.png",
+      "latest_ver": "0.0.4",
+      "vers": [
+        "0.0.4"
+      ]
+    },
+    {
+      "name": "cups-server",
+      "description": "CUPS printing server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/cups-server.png",
+      "latest_ver": "1.0.11",
+      "vers": [
+        "1.0.11"
+      ]
+    },
+    {
+      "name": "czkawka",
+      "description": "Czkawka is a simple, fast and free app to remove unnecessary files from your computer.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/czkawka.png",
+      "latest_ver": "0.0.3",
+      "vers": [
+        "0.0.3"
+      ]
+    },
+    {
+      "name": "dashdot",
+      "description": "dash. (or dashdot) is a modern server dashboard, running on the latest tech, designed with glassmorphism in mind.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/dashdot.png",
+      "latest_ver": "0.0.7",
+      "vers": [
+        "0.0.7"
+      ]
+    },
+    {
+      "name": "dupeguru",
+      "description": "dupeGuru is a tool to find duplicate files on your computer. It can scan either filenames or contents.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/dupeguru.png",
+      "latest_ver": "0.0.1",
+      "vers": [
+        "0.0.1"
+      ]
+    },
+    {
+      "name": "etesync",
+      "description": "Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/etesync.png",
+      "latest_ver": "0.0.4",
+      "vers": [
+        "0.0.4"
+      ]
+    },
+    {
+      "name": "fancyindex",
+      "description": "Fancyindex provides a lightweight nginx directory listing with theming support\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/fancyindex.png",
+      "latest_ver": "1.0.8",
+      "vers": [
+        "1.0.8"
+      ]
+    },
+    {
+      "name": "filebot",
+      "description": "FileBot is the ultimate tool for organizing and renaming your movies, tv shows or anime, and music well as downloading subtitles and artwork. It's smart and just works.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/filebot.png",
+      "latest_ver": "0.0.1",
+      "vers": [
+        "0.0.1"
+      ]
+    },
+    {
+      "name": "filerun",
+      "description": "FileRun is a full featured web based file manager with an easy to use user interface\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/filerun.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "frigate",
+      "description": "NVR With Realtime Object Detection for IP Cameras\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/frigate.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "ghost",
+      "description": "Ghost is an open source, professional publishing platform built on a modern Node.js technology stack — designed for teams who need power, flexibility and performance.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/ghost.png",
+      "latest_ver": "3.0.13",
+      "vers": [
+        "3.0.13"
+      ]
+    },
+    {
+      "name": "homebridge",
+      "description": "A lightweight NodeJS server that emulates the iOS HomeKit API\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/homebridge.png",
+      "latest_ver": "1.0.9",
+      "vers": [
+        "1.0.9"
+      ]
+    },
+    {
+      "name": "jitsi",
+      "description": "Jitsi is a set of open-source projects that allows you to easily build and deploy secure video conferencing solutions\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/jitsi.png",
+      "latest_ver": "0.0.4",
+      "vers": [
+        "0.0.4"
+      ]
+    },
+    {
+      "name": "jump",
+      "description": "Jump is yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/jump.png",
+      "latest_ver": "0.0.9",
+      "vers": [
+        "0.0.9"
+      ]
+    },
+    {
+      "name": "libreddit",
+      "description": "An alternative private front-end to Reddit\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/libreddit.png",
+      "latest_ver": "0.0.1",
+      "vers": [
+        "0.0.1"
+      ]
+    },
+    {
+      "name": "mediainfo",
+      "description": "MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/mediainfo.png",
+      "latest_ver": "0.0.1",
+      "vers": [
+        "0.0.1"
+      ]
+    },
+    {
+      "name": "meshcentral",
+      "description": "MeshCentral is a full computer management web site\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/meshcentral.png",
+      "latest_ver": "3.0.11",
+      "vers": [
+        "3.0.11"
+      ]
+    },
+    {
+      "name": "mkvcleaver",
+      "description": "MKVCleaver is a tool for batch extraction of data from MKV files\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/mkvcleaver.png",
+      "latest_ver": "0.0.1",
+      "vers": [
+        "0.0.1"
+      ]
+    },
+    {
+      "name": "openspeedtest",
+      "description": "HTML5 Network Speed Test Server. You can test download & upload speed from any device within your network with a web browser that is IE10 or new.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/openspeedtest.png",
+      "latest_ver": "0.0.2",
+      "vers": [
+        "0.0.2"
+      ]
+    },
+    {
+      "name": "piwigo",
+      "description": "A is photo gallery software for the web, built by an active community of users and developers.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/piwigo.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "privatebin",
+      "description": "PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/privatebin.png",
+      "latest_ver": "0.0.7",
+      "vers": [
+        "0.0.7"
+      ]
+    },
+    {
+      "name": "putty",
+      "description": "PuTTY is a free and open-source terminal emulator, serial console and network file transfer application.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/putty.png",
+      "latest_ver": "0.0.1",
+      "vers": [
+        "0.0.1"
+      ]
+    },
+    {
+      "name": "qdirstat",
+      "description": "QDirStat is a graphical application to show where your disk space has gone and to help you to clean it up.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/qdirstat.png",
+      "latest_ver": "0.0.1",
+      "vers": [
+        "0.0.1"
+      ]
+    },
+    {
+      "name": "radicale",
+      "description": "Radicale is a small but powerful CalDAV (calendars, to-do lists) and CardDAV (contacts) server.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/radicale.png",
+      "latest_ver": "0.0.4",
+      "vers": [
+        "0.0.4"
+      ]
+    },
+    {
+      "name": "self-service-password",
+      "description": "Self Service Password is a PHP application that allows users to change their password in an LDAP directory.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/self-service-password.png",
+      "latest_ver": "1.0.12",
+      "vers": [
+        "1.0.12"
+      ]
+    },
+    {
+      "name": "senseai-server",
+      "description": "A standalone, self-hosted, fast, free and Open Source Artificial Intelligence microserver for any platform, any language.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/senseai-server.png",
+      "latest_ver": "0.0.7",
+      "vers": [
+        "0.0.7"
+      ]
+    },
+    {
+      "name": "technitium",
+      "description": "Technitium DNS Server is an open source authoritative as well as recursive DNS server that can be used for self hosting a DNS server for privacy & security.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/technitium.png",
+      "latest_ver": "1.0.8",
+      "vers": [
+        "1.0.8"
+      ]
+    },
+    {
+      "name": "theme-park",
+      "description": "Custom themes for your favorite apps!\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/theme-park.png",
+      "latest_ver": "1.0.9",
+      "vers": [
+        "1.0.9"
+      ]
+    },
+    {
+      "name": "tsmuxer",
+      "description": "tsMuxer is a Transport Stream muxer.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/tsmuxer.png",
+      "latest_ver": "0.0.1",
+      "vers": [
+        "0.0.1"
+      ]
+    },
+    {
+      "name": "wg-easy",
+      "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/wg-easy.png",
+      "latest_ver": "0.0.2",
+      "vers": [
+        "0.0.2"
+      ]
+    },
+    {
+      "name": "wger",
+      "description": "Workout Manager is a free, open source web application that helps you manage your personal workouts, weight and diet plans and can also be used as a simple gym management utility.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/wger.png",
+      "latest_ver": "0.0.10",
+      "vers": [
+        "0.0.10"
+      ]
+    },
+    {
+      "name": "youtubedl-material",
+      "description": "YoutubeDL-Material is a Material Design frontend for youtube-dl.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/youtubedl-material.png",
+      "latest_ver": "0.0.7",
+      "vers": [
+        "0.0.7"
+      ]
+    },
+    {
+      "name": "zabbix-server",
+      "description": "Zabbix is an enterprise-class open source distributed monitoring solution.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "incubator",
+      "icon": "https://truecharts.org/_static/img/appicons/zabbix-server.png",
+      "latest_ver": "2.0.10",
+      "vers": [
+        "2.0.10"
+      ]
+    },
+    {
+      "name": "airdcpp-webclient",
+      "description": "AirDC++ Web Client is a locally installed application, which is designed for flexible sharing of files or directories within groups of people in a local network or over internet.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/airdcpp-webclient.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "airsonic-advanced",
+      "description": "Airsonic is a Free and Open Source community driven media server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/airsonic-advanced.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "airsonic",
+      "description": "Airsonic is a Free and Open Source community driven media server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/airsonic.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "alist",
+      "description": "Alist program that supports multiple storage, powered by Gin and React\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/alist.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "amcrest2mqtt",
+      "description": "Expose all events from an Amcrest device to an MQTT broker\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/amcrest2mqtt.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "anonaddy",
+      "description": "Protect your email from spam using disposable addresses.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/anonaddy.png",
+      "latest_ver": "9.0.12",
+      "vers": [
+        "9.0.12"
+      ]
+    },
+    {
+      "name": "apache-musicindex",
+      "description": "Index and stream music using apache-musicindex and m3u playlists\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/apache-musicindex.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "appdaemon",
+      "description": "AppDaemon is a loosely coupled, multithreaded, sandboxed python execution environment for writing automation apps for Home Assistant home automation software. It also provides a configurable dashboard (HADashboard) suitable for wall mounted tablets.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/appdaemon.png",
+      "latest_ver": "9.0.9",
+      "vers": [
+        "9.0.9"
+      ]
+    },
+    {
+      "name": "aria2",
+      "description": "aria server for downloading web content\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/aria2.png",
+      "latest_ver": "5.0.9",
+      "vers": [
+        "5.0.9"
+      ]
+    },
+    {
+      "name": "audacity",
+      "description": "An easy-to-use, multi-track audio editor and recorder\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/audacity.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "audiobookshelf",
+      "description": "Audiobookshelf is a self-hosted audiobook server for managing and playing your audiobooks.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/audiobookshelf.png",
+      "latest_ver": "2.0.11",
+      "vers": [
+        "2.0.11"
+      ]
+    },
+    {
+      "name": "authelia",
+      "description": "Authelia is a Single Sign-On Multi-Factor portal for web apps\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/authelia.png",
+      "latest_ver": "11.0.12",
+      "vers": [
+        "11.0.9",
+        "11.0.10",
+        "11.0.11",
+        "11.0.12"
+      ]
+    },
+    {
+      "name": "automatic-music-downloader",
+      "description": "A Lidarr companion script to automatically download music for Lidarr.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/automatic-music-downloader.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "babybuddy",
+      "description": "Helps caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/babybuddy.png",
+      "latest_ver": "8.0.14",
+      "vers": [
+        "8.0.14"
+      ]
+    },
+    {
+      "name": "baserow",
+      "description": "Baserow is an open source no-code database tool and Airtable alternative.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/baserow.png",
+      "latest_ver": "3.0.12",
+      "vers": [
+        "3.0.12"
+      ]
+    },
+    {
+      "name": "bazarr",
+      "description": "Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/bazarr.png",
+      "latest_ver": "11.0.9",
+      "vers": [
+        "11.0.8",
+        "11.0.9"
+      ]
+    },
+    {
+      "name": "beets",
+      "description": "A music library manager and not, for the most part, a music player.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/beets.png",
+      "latest_ver": "4.0.10",
+      "vers": [
+        "4.0.10"
+      ]
+    },
+    {
+      "name": "blog",
+      "description": "Lightweight self-hosted facebook-styled PHP blog.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/blog.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "boinc",
+      "description": "BOINC is a platform for high-throughput computing on a large scale (thousands or millions of computers).\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/boinc.png",
+      "latest_ver": "2.0.14",
+      "vers": [
+        "2.0.14"
+      ]
+    },
+    {
+      "name": "booksonic-air",
+      "description": "Booksonic is a platform for accessing the audibooks you own wherever you are\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/booksonic-air.png",
+      "latest_ver": "6.0.10",
+      "vers": [
+        "6.0.10"
+      ]
+    },
+    {
+      "name": "bookstack",
+      "description": "A simple, self-hosted, easy-to-use platform for organising and storing information.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/bookstack.png",
+      "latest_ver": "3.0.11",
+      "vers": [
+        "3.0.11"
+      ]
+    },
+    {
+      "name": "browserless-chrome",
+      "description": "Browserless is a web-service that allows for remote clients to connect, drive, and execute headless work\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/browserless-chrome.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "budge",
+      "description": "Budge is an open source 'budgeting with envelopes' personal finance app.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/budge.png",
+      "latest_ver": "2.0.11",
+      "vers": [
+        "2.0.11"
+      ]
+    },
+    {
+      "name": "calibre-web",
+      "description": "Calibre-Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/calibre-web.png",
+      "latest_ver": "11.0.11",
+      "vers": [
+        "11.0.10",
+        "11.0.11"
+      ]
+    },
+    {
+      "name": "calibre",
+      "description": "Calibre is a powerful and easy to use e-book manager.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/calibre.png",
+      "latest_ver": "7.0.12",
+      "vers": [
+        "7.0.12"
+      ]
+    },
+    {
+      "name": "chevereto",
+      "description": "Chevereto is an image hosting software that allows you to create a beautiful and full-featured image hosting website on your own server.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/chevereto.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "clamav",
+      "description": "ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/clamav.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "clarkson",
+      "description": "A web-based dashboard application that gives you a neat and clean interface for logging your fuel fill-ups for all of your vehicles.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/clarkson.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "cloud9",
+      "description": "A complete web based IDE with terminal access\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/cloud9.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "code-server",
+      "description": "Run VS Code on any machine anywhere and access it in the browser.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/code-server.png",
+      "latest_ver": "4.0.10",
+      "vers": [
+        "4.0.10"
+      ]
+    },
+    {
+      "name": "collabora-online",
+      "description": "Collabora Online Development Edition – an awesome, Online Office suite image suitable for home use.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/collabora-online.png",
+      "latest_ver": "12.0.11",
+      "vers": [
+        "12.0.10",
+        "12.0.11"
+      ]
+    },
+    {
+      "name": "commento-plusplus",
+      "description": "Commento++ is a free, open source, fast & lightweight comments box that you can embed in your static website instead of Disqus.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/commento-plusplus.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "couchpotato",
+      "description": "Couchpotato is an automatic NZB and torrent downloader.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/couchpotato.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "cryptofolio",
+      "description": "Track your cryptocurrency holdings/portfolio\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/cryptofolio.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "custom-app",
+      "description": "Advanced tool to create your own TrueCharts-based App\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/custom-app.png",
+      "latest_ver": "5.1.4",
+      "vers": [
+        "5.1.4"
+      ]
+    },
+    {
+      "name": "cyberchef",
+      "description": "CyberChef is a simple, intuitive web app for carrying out all manner of \"cyber\" operations within a web browser.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/cyberchef.png",
+      "latest_ver": "2.0.24",
+      "vers": [
+        "2.0.24"
+      ]
+    },
+    {
+      "name": "darktable",
+      "description": "Darktable is an open source photography workflow application and raw developer.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/darktable.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "dashdot",
+      "description": "dash. (or dashdot) is a modern server dashboard, running on the latest tech, designed with glassmorphism in mind.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/dashdot.png",
+      "latest_ver": "1.0.16",
+      "vers": [
+        "1.0.16"
+      ]
+    },
+    {
+      "name": "davos",
+      "description": "An FTP automation tool that periodically scans given host locations for new files.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/davos.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "ddclient",
+      "description": "Ddclient is a Perl client used to update dynamic DNS entries for accounts on Dynamic DNS Network Service Provider.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ddclient.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "ddns-go",
+      "description": "Automatically obtain your public network IPv4 or IPv6 address and resolve it to the corresponding domain name service\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ddns-go.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "ddns-updater",
+      "description": "Light container updating DNS A and/or AAAA records periodically for multiple DNS providers\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ddns-updater.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "deconz",
+      "description": "deCONZ is an easy to use control software, with which you can set up and control Zigbee networks of any size without further programming effort.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/deconz.png",
+      "latest_ver": "8.0.11",
+      "vers": [
+        "8.0.11"
+      ]
+    },
+    {
+      "name": "deemix",
+      "description": "deemix is a deezer downloader built from the ashes of Deezloader Remix.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/deemix.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "deepstack",
+      "description": "DeepStack AI provides AI features including Face Recognition, Object Detection, Scene Recognition and custom AI Models\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/deepstack.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "deluge",
+      "description": "Deluge App for TrueNAS SCALE\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/deluge.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "digikam",
+      "description": "Professional Photo Management with the Power of Open Source\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/digikam.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "dillinger",
+      "description": "Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/dillinger.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "dizquetv",
+      "description": "Create live TV channel streams from media on your Plex servers.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/dizquetv.png",
+      "latest_ver": "7.0.9",
+      "vers": [
+        "7.0.9"
+      ]
+    },
+    {
+      "name": "docker-compose",
+      "description": "Dedicated App for using Docker-Compose on TrueNAS SCALE\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/docker-compose.png",
+      "latest_ver": "2.0.10",
+      "vers": [
+        "2.0.10"
+      ]
+    },
+    {
+      "name": "dokuwiki",
+      "description": "Dokuwiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/dokuwiki.png",
+      "latest_ver": "3.0.18",
+      "vers": [
+        "3.0.18"
+      ]
+    },
+    {
+      "name": "domoticz",
+      "description": "Domoticz is a Home Automation System that lets you monitor and configure various devices like Lights, Switches and much more.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/domoticz.png",
+      "latest_ver": "2.0.12",
+      "vers": [
+        "2.0.12"
+      ]
+    },
+    {
+      "name": "doplarr",
+      "description": "An *arr Request Bot for Discord\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/doplarr.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "double-take",
+      "description": "Unified UI and API for processing and training images for facial recognition\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/double-take.png",
+      "latest_ver": "2.0.10",
+      "vers": [
+        "2.0.10"
+      ]
+    },
+    {
+      "name": "doublecommander",
+      "description": "A free cross platform open source file manager with two panels side by side.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/doublecommander.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "drawio",
+      "description": "Drawio is free online diagram software.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/drawio.png",
+      "latest_ver": "2.0.14",
+      "vers": [
+        "2.0.14"
+      ]
+    },
+    {
+      "name": "dsmr-reader",
+      "description": "DSMR-protocol reader, telegram data storage and energy consumption visualizer.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/dsmr-reader.png",
+      "latest_ver": "8.0.9",
+      "vers": [
+        "8.0.9"
+      ]
+    },
+    {
+      "name": "duckdns",
+      "description": "Duckdns is a free service which will point a DNS (sub domains of duckdns.org) to an IP of your choice.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/duckdns.png",
+      "latest_ver": "2.0.11",
+      "vers": [
+        "2.0.11"
+      ]
+    },
+    {
+      "name": "duplicati",
+      "description": "Store securely encrypted backups on cloud storage services!\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/duplicati.png",
+      "latest_ver": "6.0.10",
+      "vers": [
+        "6.0.10"
+      ]
+    },
+    {
+      "name": "emby",
+      "description": "Emby Server is a home media server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/emby.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "embystat",
+      "description": "Embystat is a personal web server that can calculate all kinds of statistics from your (local) Emby server.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/embystat.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "emulatorjs",
+      "description": "Emulatorjs - In browser web based emulation portable to nearly any device for many retro consoles.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/emulatorjs.png",
+      "latest_ver": "2.0.12",
+      "vers": [
+        "2.0.12"
+      ]
+    },
+    {
+      "name": "endlessh",
+      "description": "Endlessh is an SSH tarpit that very slowly sends an endless, random SSH banner.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/endlessh.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "esphome",
+      "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/esphome.png",
+      "latest_ver": "11.0.10",
+      "vers": [
+        "11.0.9",
+        "11.0.10"
+      ]
+    },
+    {
+      "name": "etherpad",
+      "description": "A real-time collaborative editor scalable to thousands of simultaneous real time users.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/etherpad.png",
+      "latest_ver": "8.0.9",
+      "vers": [
+        "8.0.9"
+      ]
+    },
+    {
+      "name": "external-service",
+      "description": "Allow external services to be used like Apps.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/external-service.png",
+      "latest_ver": "6.0.8",
+      "vers": [
+        "6.0.8"
+      ]
+    },
+    {
+      "name": "ferdi-server",
+      "description": "Server for Ferdi that you can re-use to run your own\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ferdi-server.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "filebrowser",
+      "description": "Filebrowser provides a file managing interface within a specified directory\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/filebrowser.png",
+      "latest_ver": "2.0.10",
+      "vers": [
+        "2.0.10"
+      ]
+    },
+    {
+      "name": "fileflows",
+      "description": "An application that lets you automatically process files through a simple rule flow.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/fileflows.png",
+      "latest_ver": "2.0.14",
+      "vers": [
+        "2.0.14"
+      ]
+    },
+    {
+      "name": "filezilla",
+      "description": "A Helm chart for Kubernetes\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/filezilla.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "fireflyiii",
+      "description": "A free and open source personal finance manager\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/fireflyiii.png",
+      "latest_ver": "16.0.11",
+      "vers": [
+        "16.0.9",
+        "16.0.10",
+        "16.0.11"
+      ]
+    },
+    {
+      "name": "firefox-syncserver",
+      "description": "This is an all-in-one package for running a self-hosted Firefox Sync server.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/firefox-syncserver.png",
+      "latest_ver": "9.0.8",
+      "vers": [
+        "9.0.8"
+      ]
+    },
+    {
+      "name": "firefox",
+      "description": "Firefox Browser, also known as Mozilla Firefox or simply Firefox,\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/firefox.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "flaresolverr",
+      "description": "FlareSolverr is a proxy server to bypass Cloudflare protection\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/flaresolverr.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "fleet",
+      "description": "Fleet provides an online web interface which displays a set of maintained images from one or more owned repositories.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/fleet.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "flexget",
+      "description": "FlexGet is a multipurpose automation tool for all of your media\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/flexget.png",
+      "latest_ver": "2.0.12",
+      "vers": [
+        "2.0.12"
+      ]
+    },
+    {
+      "name": "flood",
+      "description": "Flood is a monitoring service for various torrent clients\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/flood.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "fluidd",
+      "description": "Fluidd is a free and open-source Klipper web interface for managing your 3d printer.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/fluidd.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "focalboard",
+      "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/focalboard.png",
+      "latest_ver": "9.0.9",
+      "vers": [
+        "9.0.9"
+      ]
+    },
+    {
+      "name": "foldingathome",
+      "description": "Folding@home is a distributed computing project for simulating protein dynamics, including the process of protein folding and the movements of proteins implicated in a variety of diseases.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/foldingathome.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "fossil",
+      "description": "A simple, high-reliability, distributed software configuration management system\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/fossil.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "freeradius",
+      "description": "OpenSource Radius implementation\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/freeradius.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "freshrss",
+      "description": "FreshRSS is a self-hosted RSS feed aggregator\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/freshrss.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "friendica",
+      "description": "Welcome to the free social web\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/friendica.png",
+      "latest_ver": "4.0.14",
+      "vers": [
+        "4.0.14"
+      ]
+    },
+    {
+      "name": "gaps",
+      "description": "Gaps searches through your Plex Server or local folders for all movies, then queries for known movies in the same collection.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/gaps.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "ghost",
+      "description": "Ghost is an open source, professional publishing platform built on a modern Node.js technology stack — designed for teams who need power, flexibility and performance.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ghost.png",
+      "latest_ver": "1.0.28",
+      "vers": [
+        "1.0.28"
+      ]
+    },
+    {
+      "name": "gitea",
+      "description": "Self hosted GIT repositories\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/gitea.png",
+      "latest_ver": "8.0.10",
+      "vers": [
+        "8.0.10"
+      ]
+    },
+    {
+      "name": "golinks",
+      "description": "A web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/golinks.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "gonic",
+      "description": "Music streaming server / subsonic server API implementation\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/gonic.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "gotify",
+      "description": "a simple server for sending and receiving messages\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/gotify.png",
+      "latest_ver": "8.0.9",
+      "vers": [
+        "8.0.9"
+      ]
+    },
+    {
+      "name": "grafana",
+      "description": "Grafana is an open source, feature rich metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/grafana.png",
+      "latest_ver": "4.0.18",
+      "vers": [
+        "4.0.18"
+      ]
+    },
+    {
+      "name": "grav",
+      "description": "A Fast, Simple, and Flexible, file-based Web-platform.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/grav.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "grist",
+      "description": "Grist is a modern relational spreadsheet. It combine the flexibility of a spreadsheet with the robustness of a database to organize your data.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/grist.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "grocy",
+      "description": "ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/grocy.png",
+      "latest_ver": "11.0.13",
+      "vers": [
+        "11.0.11",
+        "11.0.12",
+        "11.0.13"
+      ]
+    },
+    {
+      "name": "guacamole-client",
+      "description": "Apache Guacamole is a clientless remote desktop gateway.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/guacamole-client.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "guacd",
+      "description": "Guacd - Apache Guacamole is a clientless remote desktop gateway.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/guacd.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "habridge",
+      "description": "Habridge emulates Philips Hue API to other home automation gateways such as an Amazon Echo/Dot or other systems that support Philips Hue.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/habridge.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "hammond",
+      "description": "A self-hosted vehicle expense tracking system with support for multiple users.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/hammond.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "handbrake",
+      "description": "HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/handbrake.png",
+      "latest_ver": "13.0.10",
+      "vers": [
+        "13.0.8",
+        "13.0.9",
+        "13.0.10"
+      ]
+    },
+    {
+      "name": "haste-server",
+      "description": "Simple text sharing\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/haste-server.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "headphones",
+      "description": "An automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent and Blackhole.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/headphones.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "healthchecks",
+      "description": "Healthchecks is a cron job monitoring service. It listens for HTTP requests and email messages (\"pings\") from your cron jobs and scheduled tasks (\"checks\"). When a ping does not arrive on time, Healthchecks sends out alerts.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/healthchecks.png",
+      "latest_ver": "7.0.10",
+      "vers": [
+        "7.0.10"
+      ]
+    },
+    {
+      "name": "hedgedoc",
+      "description": "HedgeDoc lets you create real-time collaborative markdown notes.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/hedgedoc.png",
+      "latest_ver": "4.0.5",
+      "vers": [
+        "4.0.5"
+      ]
+    },
+    {
+      "name": "heimdall",
+      "description": "An Application dashboard and launcher\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/heimdall.png",
+      "latest_ver": "11.0.9",
+      "vers": [
+        "11.0.7",
+        "11.0.8",
+        "11.0.9"
+      ]
+    },
+    {
+      "name": "homarr",
+      "description": "Homarr is a simple and lightweight homepage for your server, that helps you easily access all of your services in one place.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/homarr.png",
+      "latest_ver": "2.0.10",
+      "vers": [
+        "2.0.10"
+      ]
+    },
+    {
+      "name": "home-assistant",
+      "description": "home-assistant App for TrueNAS SCALE\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/home-assistant.png",
+      "latest_ver": "15.0.14",
+      "vers": [
+        "15.0.11",
+        "15.0.12",
+        "15.0.13",
+        "15.0.14"
+      ]
+    },
+    {
+      "name": "homer",
+      "description": "A dead simple static homepage for your server to keep your services on hand.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/homer.png",
+      "latest_ver": "2.0.12",
+      "vers": [
+        "2.0.12"
+      ]
+    },
+    {
+      "name": "htpcmanager",
+      "description": "Htpcmanager is a front end for many htpc related applications.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/htpcmanager.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "hyperion-ng",
+      "description": "Hyperion is an opensource Bias or Ambient Lighting implementation\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/hyperion-ng.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "icantbelieveitsnotvaletudo",
+      "description": "Create live map data from Valetudo powered robots\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/icantbelieveitsnotvaletudo.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "icinga2",
+      "description": "A monitoring system which checks the availability of your network resources, notifies users of outages, and generates performance data for reporting.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/icinga2.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "impostor-server",
+      "description": "A private Among Us server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/impostor-server.png",
+      "latest_ver": "1.0.12",
+      "vers": [
+        "1.0.12"
+      ]
+    },
+    {
+      "name": "inventree",
+      "description": "InvenTree is an open-source Inventory Management System which provides powerful low-level stock control and part tracking.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/inventree.png",
+      "latest_ver": "3.0.11",
+      "vers": [
+        "3.0.11"
+      ]
+    },
+    {
+      "name": "ipfs",
+      "description": "IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from previous systems such Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single bittorrent swarm, exchanging git objects.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ipfs.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "ispy-agent-dvr",
+      "description": "iSpy's Agent DVR, a standalone DVR service to manage IP cameras.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ispy-agent-dvr.png",
+      "latest_ver": "2.0.14",
+      "vers": [
+        "2.0.14"
+      ]
+    },
+    {
+      "name": "iyuuplus",
+      "description": "The IYUU automatic seeding tool can automatically seed most PT sites in China, support downloader clusters, multiple disks, multiple download directories, connecting to remote downloaders, etc.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/iyuuplus.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "jackett",
+      "description": "API Support for your favorite torrent trackers.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/jackett.png",
+      "latest_ver": "11.0.19",
+      "vers": [
+        "11.0.18",
+        "11.0.19"
+      ]
+    },
+    {
+      "name": "jdownloader2",
+      "description": "JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/jdownloader2.png",
+      "latest_ver": "8.0.9",
+      "vers": [
+        "8.0.9"
+      ]
+    },
+    {
+      "name": "jellyfin",
+      "description": "Jellyfin is a Free Software Media System\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/jellyfin.png",
+      "latest_ver": "11.0.9",
+      "vers": [
+        "11.0.8",
+        "11.0.9"
+      ]
+    },
+    {
+      "name": "jellyseerr",
+      "description": "TEMPLATEREPLACEME\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/jellyseerr.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "joplin-server",
+      "description": "This server allows you to sync any Joplin client\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/joplin-server.png",
+      "latest_ver": "8.0.8",
+      "vers": [
+        "8.0.8"
+      ]
+    },
+    {
+      "name": "k8s-gateway",
+      "description": "A Helm chart for the k8s_gateway CoreDNS plugin\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/k8s-gateway.png",
+      "latest_ver": "6.0.8",
+      "vers": [
+        "6.0.8"
+      ]
+    },
+    {
+      "name": "kanboard",
+      "description": "Kanboard is a free and open source Kanban project management software.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/kanboard.png",
+      "latest_ver": "8.0.9",
+      "vers": [
+        "8.0.9"
+      ]
+    },
+    {
+      "name": "kavita",
+      "description": "Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/kavita.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "kimai",
+      "description": "Kimai is a free, open source and online time-tracking software designed for small businesses and freelancers.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/kimai.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "kms",
+      "description": "Private Windows Activation Server for development and testing\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/kms.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "kodi-headless",
+      "description": "A headless install of kodi in a docker container.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/kodi-headless.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "koel",
+      "description": "Koel is a simple web-based personal audio streaming service written in Vue on the client side and Laravel on the server side.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/koel.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "komga",
+      "description": "A comics/mangas server to serve/stream pages via API\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/komga.png",
+      "latest_ver": "6.0.11",
+      "vers": [
+        "6.0.11"
+      ]
+    },
+    {
+      "name": "kopia",
+      "description": "Kopia is a simple, cross-platform tool for managing encrypted backups in the cloud. It provides fast, incremental backups, secure, client-side end-to-end encryption, compression and data deduplication.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/kopia.png",
+      "latest_ver": "2.0.16",
+      "vers": [
+        "2.0.16"
+      ]
+    },
+    {
+      "name": "kutt",
+      "description": "Kutt is a modern URL shortener with support for custom domains. Shorten URLs, manage your links and view the click rate statistics.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/kutt.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "lanraragi",
+      "description": "Open source server for archival of comics/manga.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/lanraragi.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "lazylibrarian",
+      "description": "Get all your books, like series with Sonarr...\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/lazylibrarian.png",
+      "latest_ver": "11.0.13",
+      "vers": [
+        "11.0.11",
+        "11.0.12",
+        "11.0.13"
+      ]
+    },
+    {
+      "name": "leaf2mqtt",
+      "description": "Nissan Leaf connected services to MQTT adapter\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/leaf2mqtt.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "leantime",
+      "description": "Straightforward open source project management system to make your ideas reality.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/leantime.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "libreddit",
+      "description": "An alternative private front-end to Reddit\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/libreddit.png",
+      "latest_ver": "1.0.2",
+      "vers": [
+        "1.0.2"
+      ]
+    },
+    {
+      "name": "libreoffice",
+      "description": "LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/libreoffice.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "librephotos",
+      "description": "A self-hosted open source photo management service.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/librephotos.png",
+      "latest_ver": "4.0.11",
+      "vers": [
+        "4.0.11"
+      ]
+    },
+    {
+      "name": "librespeed",
+      "description": "Librespeed is a HTML5 webpage to test upload and download speeds\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/librespeed.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "lidarr",
+      "description": "Looks and smells like Sonarr but made for music\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/lidarr.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "linkace",
+      "description": "Your self-hosted bookmark archive. Free and open source.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/linkace.png",
+      "latest_ver": "4.0.16",
+      "vers": [
+        "4.0.16"
+      ]
+    },
+    {
+      "name": "linkding",
+      "description": "Linkding is a simple bookmark service that you can host yourself. It's designed be to be minimal, fast and easy.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/linkding.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "littlelink",
+      "description": "Easy platform to combine all your social links\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/littlelink.png",
+      "latest_ver": "6.0.20",
+      "vers": [
+        "6.0.20"
+      ]
+    },
+    {
+      "name": "logitech-media-server",
+      "description": "Logitech Media Server is a platform for home/office audio streaming.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/logitech-media-server.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "loki",
+      "description": "Loki: like Prometheus, but for logs.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/loki.png",
+      "latest_ver": "5.0.10",
+      "vers": [
+        "5.0.10"
+      ]
+    },
+    {
+      "name": "lychee",
+      "description": "Lychee is a free photo-management tool, which runs on your server or web-space\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/lychee.png",
+      "latest_ver": "13.0.10",
+      "vers": [
+        "13.0.8",
+        "13.0.9",
+        "13.0.10"
+      ]
+    },
+    {
+      "name": "makemkv",
+      "description": "MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/makemkv.png",
+      "latest_ver": "2.0.10",
+      "vers": [
+        "2.0.10"
+      ]
+    },
+    {
+      "name": "matomo",
+      "description": "Matomo is the leading Free/Libre open analytics platform\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/matomo.png",
+      "latest_ver": "3.0.18",
+      "vers": [
+        "3.0.18"
+      ]
+    },
+    {
+      "name": "mattermost",
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/mattermost.png",
+      "latest_ver": "3.0.11",
+      "vers": [
+        "3.0.11"
+      ]
+    },
+    {
+      "name": "mealie",
+      "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/mealie.png",
+      "latest_ver": "8.0.9",
+      "vers": [
+        "8.0.9"
+      ]
+    },
+    {
+      "name": "medusa",
+      "description": "An automatic Video Library Manager for TV Shows\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/medusa.png",
+      "latest_ver": "3.0.12",
+      "vers": [
+        "3.0.12"
+      ]
+    },
+    {
+      "name": "meshroom",
+      "description": "Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/meshroom.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "metallb",
+      "description": "A network load-balancer implementation for Kubernetes using standard routing protocols\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/metallb.png",
+      "latest_ver": "2.0.2",
+      "vers": [
+        "2.0.2"
+      ]
+    },
+    {
+      "name": "metube",
+      "description": "Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/metube.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "minecraft-bedrock",
+      "description": "Minecraft Bedrock Dedicated Server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/minecraft-bedrock.png",
+      "latest_ver": "1.0.9",
+      "vers": [
+        "1.0.9"
+      ]
+    },
+    {
+      "name": "minecraft-java",
+      "description": "Minecraft Java Dedicated Server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/minecraft-java.png",
+      "latest_ver": "1.0.15",
+      "vers": [
+        "1.0.15"
+      ]
+    },
+    {
+      "name": "minetest",
+      "description": "Minetest (server) is a near-infinite-world block sandbox game and a game engine.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/minetest.png",
+      "latest_ver": "1.0.8",
+      "vers": [
+        "1.0.8"
+      ]
+    },
+    {
+      "name": "miniflux",
+      "description": "Miniflux is a minimalist and opinionated feed reader.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/miniflux.png",
+      "latest_ver": "7.0.10",
+      "vers": [
+        "7.0.10"
+      ]
+    },
+    {
+      "name": "minio-console",
+      "description": "A management console for minio server and operator\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/minio-console.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "minio",
+      "description": "Minio is a self-hosted S3 storage server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/minio.png",
+      "latest_ver": "3.0.17",
+      "vers": [
+        "3.0.17"
+      ]
+    },
+    {
+      "name": "minisatip",
+      "description": "Minisatip is a multi-threaded satip server version 1.2 that runs under Linux.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/minisatip.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "mkvtoolnix",
+      "description": "MKVToolNix is a set of tools to create, alter and inspect Matroska files.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/mkvtoolnix.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "ml-workspace",
+      "description": "All-in-one web-based development environment for machine learning\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ml-workspace.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "monica",
+      "description": "Monica is a great open source personal relationship management system.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/monica.png",
+      "latest_ver": "3.0.13",
+      "vers": [
+        "3.0.13"
+      ]
+    },
+    {
+      "name": "mosdns",
+      "description": "A location-based pluggable DNS forwarder/splitter.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/mosdns.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/mosquitto.png",
+      "latest_ver": "6.0.8",
+      "vers": [
+        "6.0.8"
+      ]
+    },
+    {
+      "name": "mstream",
+      "description": "A personal music streaming server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/mstream.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "muximux",
+      "description": "A lightweight portal to view & manage your HTPC apps without having to run anything more than a PHP enabled webserver\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/muximux.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "mylar",
+      "description": "Mylar is a automated Comic Book downloader\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/mylar.png",
+      "latest_ver": "6.0.8",
+      "vers": [
+        "6.0.8"
+      ]
+    },
+    {
+      "name": "mysql-workbench",
+      "description": "MySQL Workbench is a unified visual tool for database architects, developers and DBAs.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/mysql-workbench.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "n8n",
+      "description": "n8n is an extendable workflow automation tool.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/n8n.png",
+      "latest_ver": "4.0.15",
+      "vers": [
+        "4.0.15"
+      ]
+    },
+    {
+      "name": "nano-wallet",
+      "description": "Nano-wallet is a digital payment protocol designed to be accessible and lightweight.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/nano-wallet.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "navidrome",
+      "description": "Navidrome is an open source web-based music collection server and streamer\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/navidrome.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "netdata",
+      "description": "Netdata is high-fidelity infrastructure monitoring and troubleshooting.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/netdata.png",
+      "latest_ver": "2.0.10",
+      "vers": [
+        "2.0.10"
+      ]
+    },
+    {
+      "name": "nextcloud",
+      "description": "A private cloud server that puts the control and security of your own data back into your hands.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/nextcloud.png",
+      "latest_ver": "15.1.4",
+      "vers": [
+        "14.0.14",
+        "14.0.15",
+        "14.0.16",
+        "15.0.0",
+        "15.0.1",
+        "15.1.0",
+        "15.1.1",
+        "15.1.2",
+        "15.1.3",
+        "15.1.4"
+      ]
+    },
+    {
+      "name": "nextpvr",
+      "description": "NextPVR is a personal video recorder application, with the goal making it easy to watch or record live TV.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/nextpvr.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "ngircd",
+      "description": "Ngircd is a free, portable and lightweight Internet Relay Chat server for small or private networks.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ngircd.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "nntp2nntp",
+      "description": "Nntp2nntp proxy allow you to use your NNTP Account from multiple systems, each with own user name and password.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/nntp2nntp.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "nocodb",
+      "description": "Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/nocodb.png",
+      "latest_ver": "3.0.14",
+      "vers": [
+        "3.0.14"
+      ]
+    },
+    {
+      "name": "node-red",
+      "description": "Node-RED is low-code programming for event-driven applications\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/node-red.png",
+      "latest_ver": "11.0.9",
+      "vers": [
+        "11.0.8",
+        "11.0.9"
+      ]
+    },
+    {
+      "name": "novnc",
+      "description": "The open source VNC client\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/novnc.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "ntfy",
+      "description": "ntfy is a simple HTTP-based pub-sub notification service. It allows you to send notifications to your phone or desktop via scripts from any computer.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ntfy.png",
+      "latest_ver": "2.0.11",
+      "vers": [
+        "2.0.11"
+      ]
+    },
+    {
+      "name": "nullserv",
+      "description": "A simple null file http and https server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/nullserv.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "nzbget",
+      "description": "NZBGet is a Usenet downloader client\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/nzbget.png",
+      "latest_ver": "11.0.9",
+      "vers": [
+        "11.0.8",
+        "11.0.9"
+      ]
+    },
+    {
+      "name": "nzbhydra",
+      "description": "Usenet meta search\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/nzbhydra.png",
+      "latest_ver": "11.0.11",
+      "vers": [
+        "11.0.10",
+        "11.0.11"
+      ]
+    },
+    {
+      "name": "octoprint",
+      "description": "OctoPrint is the snappy web interface for your 3D printer\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/octoprint.png",
+      "latest_ver": "6.0.10",
+      "vers": [
+        "6.0.10"
+      ]
+    },
+    {
+      "name": "odoo",
+      "description": "All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, Procurement, Point of Sale, MRP, Marketing, etc.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/odoo.png",
+      "latest_ver": "8.0.11",
+      "vers": [
+        "8.0.11"
+      ]
+    },
+    {
+      "name": "omada-controller",
+      "description": "Omada is a SDN tool for TP-Link Omada hardware\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/omada-controller.png",
+      "latest_ver": "6.0.19",
+      "vers": [
+        "6.0.19"
+      ]
+    },
+    {
+      "name": "ombi",
+      "description": "Want a Movie or TV Show on Plex or Emby? Use Ombi!\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ombi.png",
+      "latest_ver": "11.0.10",
+      "vers": [
+        "11.0.9",
+        "11.0.10"
+      ]
+    },
+    {
+      "name": "onlyoffice-document-server",
+      "description": "ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/onlyoffice-document-server.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "openhab",
+      "description": "OpenHab is a home-automation application\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/openhab.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "openkm",
+      "description": "OpenKM integrates all essential documents management, collaboration and an advanced search functionality into one easy to use solution.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/openkm.png",
+      "latest_ver": "7.0.9",
+      "vers": [
+        "7.0.9"
+      ]
+    },
+    {
+      "name": "openldap",
+      "description": "Community developed LDAP software\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/openldap.png",
+      "latest_ver": "7.0.9",
+      "vers": [
+        "7.0.9"
+      ]
+    },
+    {
+      "name": "openspeedtest",
+      "description": "HTML5 Network Speed Test Server. You can test download & upload speed from any device within your network with a web browser that is IE10 or new.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/openspeedtest.png",
+      "latest_ver": "1.0.6",
+      "vers": [
+        "1.0.6"
+      ]
+    },
+    {
+      "name": "openvscode-server",
+      "description": "Openvscode-server provides a version of VS Code that runs a server on a remote machine.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/openvscode-server.png",
+      "latest_ver": "2.0.10",
+      "vers": [
+        "2.0.10"
+      ]
+    },
+    {
+      "name": "organizr",
+      "description": "HTPC/Homelab Services Organizer\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/organizr.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "oscam",
+      "description": "Open Source Conditional Access Module software\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/oscam.png",
+      "latest_ver": "6.0.8",
+      "vers": [
+        "6.0.8"
+      ]
+    },
+    {
+      "name": "outline",
+      "description": "A fast, collaborative, knowledge base for your team built using React and Node.js.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/outline.png",
+      "latest_ver": "3.0.11",
+      "vers": [
+        "3.0.11"
+      ]
+    },
+    {
+      "name": "overseerr",
+      "description": "Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services such as Sonarr, Radarr and Plex!\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/overseerr.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "owncast",
+      "description": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/owncast.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "owncloud-ocis",
+      "description": "ownCloud Infinite Scale is a self-hosted file sync and share server.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/owncloud-ocis.png",
+      "latest_ver": "7.0.8",
+      "vers": [
+        "7.0.8"
+      ]
+    },
+    {
+      "name": "paperless-ng",
+      "description": "Paperless-ngx is an application by Daniel Quinn and contributors that indexes your scanned documents.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/paperless-ng.png",
+      "latest_ver": "4.0.10",
+      "vers": [
+        "4.0.10"
+      ]
+    },
+    {
+      "name": "papermerge",
+      "description": "Papermerge is an open source document management system (DMS) primarily designed for archiving and retrieving your digital documents.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/papermerge.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "pgadmin",
+      "description": "Web-Based postgresql database management utility\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/pgadmin.png",
+      "latest_ver": "7.0.10",
+      "vers": [
+        "7.0.10"
+      ]
+    },
+    {
+      "name": "photoprism",
+      "description": "PhotoPrismÂ® is a server-based application for browsing, organizing and sharing your personal photo collection\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/photoprism.png",
+      "latest_ver": "10.0.13",
+      "vers": [
+        "10.0.11",
+        "10.0.12",
+        "10.0.13"
+      ]
+    },
+    {
+      "name": "photoshow",
+      "description": "A gallery software at its easiest, it doesn't even require a database.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/photoshow.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "photoview",
+      "description": "Photoview is a simple and user-friendly photo gallery.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/photoview.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "phpldapadmin",
+      "description": "Web-based LDAP browser to manage your LDAP server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/phpldapadmin.png",
+      "latest_ver": "6.0.8",
+      "vers": [
+        "6.0.8"
+      ]
+    },
+    {
+      "name": "piaware",
+      "description": "Program for forwarding ADS-B data to FlightAware\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/piaware.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "picoshare",
+      "description": "PicoShare is a minimalist service that allows you to share files easily.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/picoshare.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "pidgin",
+      "description": "Pidgin is a chat program which lets you log into accounts on multiple chat networks simultaneously.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/pidgin.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "pihole",
+      "description": "DNS and Ad-filtering for your network\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/pihole.png",
+      "latest_ver": "6.0.8",
+      "vers": [
+        "6.0.8"
+      ]
+    },
+    {
+      "name": "pinry",
+      "description": "The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/pinry.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "pixapop",
+      "description": "An open-source single page application to view your photos in the easiest way possible.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/pixapop.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "plex",
+      "description": "Plex Media Server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/plex.png",
+      "latest_ver": "10.0.12",
+      "vers": [
+        "10.0.10",
+        "10.0.11",
+        "10.0.12"
+      ]
+    },
+    {
+      "name": "podgrab",
+      "description": "A self-hosted podcast manager to download episodes as soon as they become live.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/podgrab.png",
+      "latest_ver": "10.0.10",
+      "vers": [
+        "10.0.8",
+        "10.0.9",
+        "10.0.10"
+      ]
+    },
+    {
+      "name": "pretend-youre-xyzzy",
+      "description": "pretend-youre-xyzzy, a cards against humanity clone\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/pretend-youre-xyzzy.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "projectsend",
+      "description": "Projectsend is a self-hosted application that lets you upload files and assign them to specific clients that you create yourself.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/projectsend.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "promcord",
+      "description": "Discord bot that provides metrics from a Discord server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/promcord.png",
+      "latest_ver": "4.0.10",
+      "vers": [
+        "4.0.10"
+      ]
+    },
+    {
+      "name": "prometheus",
+      "description": "kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Prometheus rules combined with documentation and scripts to provide easy to operate end-to-end Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/prometheus.png",
+      "latest_ver": "4.0.23",
+      "vers": [
+        "4.0.23"
+      ]
+    },
+    {
+      "name": "protonmail-bridge",
+      "description": "Container for protonmail bridge to work on the network.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/protonmail-bridge.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "prowlarr",
+      "description": "Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/prowlarr.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "pwndrop",
+      "description": "Pwndrop is a self-deployable file hosting service for sending out red teaming payloads or securely sharing your private files over HTTP and WebDAV.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/pwndrop.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "pydio-cells",
+      "description": "Pydio-cells is the nextgen file sharing platform for organizations.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/pydio-cells.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "pyload",
+      "description": "pyLoad is a Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/pyload.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "pylon",
+      "description": "Pylon is a web based integrated development environment.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/pylon.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "qbittorrent",
+      "description": "qBittorrent is a cross-platform free and open-source BitTorrent client\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/qbittorrent.png",
+      "latest_ver": "11.0.9",
+      "vers": [
+        "11.0.8",
+        "11.0.9"
+      ]
+    },
+    {
+      "name": "qinglong",
+      "description": "A timed task management panel that supports typescript, javaScript, python3, and shell\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/qinglong.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "quassel-core",
+      "description": "Quassel-core is a modern, cross-platform, distributed IRC client.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/quassel-core.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "quassel-web",
+      "description": "Quassel-web is a web client for Quassel.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/quassel-web.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "radarr",
+      "description": "A fork of Sonarr to work with movies à la Couchpotato\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/radarr.png",
+      "latest_ver": "11.0.9",
+      "vers": [
+        "11.0.8",
+        "11.0.9"
+      ]
+    },
+    {
+      "name": "readarr",
+      "description": "A fork of Radarr to work with Books & AudioBooks\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/readarr.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "recipes",
+      "description": "Recipes is a Django application to manage, tag and search recipes using either built in models or external storage providers hosting PDF's, Images or other files.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/recipes.png",
+      "latest_ver": "8.0.11",
+      "vers": [
+        "8.0.11"
+      ]
+    },
+    {
+      "name": "redmine",
+      "description": "Redmine is a flexible project management web application written using Ruby on Rails framework.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/redmine.png",
+      "latest_ver": "3.0.11",
+      "vers": [
+        "3.0.11"
+      ]
+    },
+    {
+      "name": "reg",
+      "description": "Docker registry v2 command line client and repo listing generator with security checks.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/reg.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "remmina",
+      "description": "A remote desktop client written in GTK\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/remmina.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "requestrr",
+      "description": "Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/requestrr.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "resilio-sync",
+      "description": "Resilio Sync is a fast, reliable, and simple file sync and share solution, powered by P2P technology\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/resilio-sync.png",
+      "latest_ver": "6.0.8",
+      "vers": [
+        "6.0.8"
+      ]
+    },
+    {
+      "name": "rsnapshot",
+      "description": "Rsnapshot is a filesystem snapshot utility based on rsync.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/rsnapshot.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "rss-bridge",
+      "description": "RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for websites that don't have one.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/rss-bridge.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "rsshub",
+      "description": "RSSHub can generate RSS feeds from pretty much everything\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/rsshub.png",
+      "latest_ver": "3.0.27",
+      "vers": [
+        "3.0.27"
+      ]
+    },
+    {
+      "name": "sabnzbd",
+      "description": "Free and easy binary newsreader\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/sabnzbd.png",
+      "latest_ver": "11.0.10",
+      "vers": [
+        "11.0.9",
+        "11.0.10"
+      ]
+    },
+    {
+      "name": "satisfactory",
+      "description": "Satisfactory Dedicated Server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/satisfactory.png",
+      "latest_ver": "2.0.10",
+      "vers": [
+        "2.0.10"
+      ]
+    },
+    {
+      "name": "scrutiny",
+      "description": "Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/scrutiny.png",
+      "latest_ver": "3.0.6",
+      "vers": [
+        "3.0.6"
+      ]
+    },
+    {
+      "name": "ser2sock",
+      "description": "Serial to Socket Redirector\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ser2sock.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "shiori",
+      "description": "A simple bookmark manager built with Go\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/shiori.png",
+      "latest_ver": "7.0.9",
+      "vers": [
+        "7.0.9"
+      ]
+    },
+    {
+      "name": "shlink-web-client",
+      "description": "A ReactJS-based progressive web application for Shlink.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/shlink-web-client.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "shlink",
+      "description": "A PHP-based self-hosted URL shortener that can be used to serve shortened URLs under your own custom domain.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/shlink.png",
+      "latest_ver": "4.0.10",
+      "vers": [
+        "4.0.10"
+      ]
+    },
+    {
+      "name": "shorturl",
+      "description": "Self hosted web app for shortening urls (URL shortener)\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/shorturl.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "sickchill",
+      "description": "An Automatic Video Library Manager for TV Shows\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/sickchill.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "sickgear",
+      "description": "Provides management of TV shows and/or Anime, it detects new episodes, links downloader apps, and more\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/sickgear.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "smokeping",
+      "description": "Keep track of your network latency.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/smokeping.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "snapdrop",
+      "description": "Snapdrop A local file sharing in your browser. Inspired by Apple's Airdrop.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/snapdrop.png",
+      "latest_ver": "2.0.12",
+      "vers": [
+        "2.0.12"
+      ]
+    },
+    {
+      "name": "snipe-it",
+      "description": "Open source asset management\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/snipe-it.png",
+      "latest_ver": "4.0.16",
+      "vers": [
+        "4.0.16"
+      ]
+    },
+    {
+      "name": "sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/sonarr.png",
+      "latest_ver": "11.0.9",
+      "vers": [
+        "11.0.8",
+        "11.0.9"
+      ]
+    },
+    {
+      "name": "speedtest-exporter",
+      "description": "Speedtest Exporter made in python using the official speedtest bin\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/speedtest-exporter.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "spotweb",
+      "description": "Spotweb is a decentralized usenet community based on the Spotnet protocol.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/spotweb.png",
+      "latest_ver": "4.0.9",
+      "vers": [
+        "4.0.9"
+      ]
+    },
+    {
+      "name": "sqlitebrowser",
+      "description": "A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/sqlitebrowser.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "stash",
+      "description": "An organizer for your porn, written in Go\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/stash.png",
+      "latest_ver": "7.0.10",
+      "vers": [
+        "7.0.10"
+      ]
+    },
+    {
+      "name": "static",
+      "description": "A self-hosted static file serving app which does nothing more than just serve up static files from a mounted volume.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/static.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "statping",
+      "description": "Status page for monitoring your websites and applications\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/statping.png",
+      "latest_ver": "7.0.9",
+      "vers": [
+        "7.0.9"
+      ]
+    },
+    {
+      "name": "storj-node",
+      "description": "Storj is an S3-compatible platform and suite of decentralized applications that allows you to store data in a secure and decentralized manner\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/storj-node.png",
+      "latest_ver": "2.0.16",
+      "vers": [
+        "2.0.16"
+      ]
+    },
+    {
+      "name": "strapi",
+      "description": "Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/strapi.png",
+      "latest_ver": "4.0.8",
+      "vers": [
+        "4.0.8"
+      ]
+    },
+    {
+      "name": "synapse",
+      "description": "A Helm chart to deploy a Matrix homeserver stack into Kubernetes\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/synapse.png",
+      "latest_ver": "4.0.11",
+      "vers": [
+        "4.0.11"
+      ]
+    },
+    {
+      "name": "synclounge",
+      "description": "Synclounge is a third party tool that allows you to watch Plex in sync with your friends/family, wherever you are.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/synclounge.png",
+      "latest_ver": "2.0.12",
+      "vers": [
+        "2.0.12"
+      ]
+    },
+    {
+      "name": "syncthing",
+      "description": "P2P file synchronization application\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/syncthing.png",
+      "latest_ver": "11.0.9",
+      "vers": [
+        "11.0.7",
+        "11.0.8",
+        "11.0.9"
+      ]
+    },
+    {
+      "name": "syslog-ng",
+      "description": "syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate logs.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/syslog-ng.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "tautulli",
+      "description": "A Python based monitoring and tracking tool for Plex Media Server\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/tautulli.png",
+      "latest_ver": "11.0.9",
+      "vers": [
+        "11.0.8",
+        "11.0.9"
+      ]
+    },
+    {
+      "name": "tdarr-node",
+      "description": "Audio/Video library transcoding automation\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/tdarr-node.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "tdarr",
+      "description": "Audio/Video library transcoding automation\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/tdarr.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "teamspeak3",
+      "description": "TeamSpeak is software for quality voice communication via the Internet.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/teamspeak3.png",
+      "latest_ver": "4.0.10",
+      "vers": [
+        "4.0.10"
+      ]
+    },
+    {
+      "name": "teedy",
+      "description": "Teedy is an open source, lightweight document management system for individuals and businesses.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/teedy.png",
+      "latest_ver": "7.0.9",
+      "vers": [
+        "7.0.9"
+      ]
+    },
+    {
+      "name": "thelounge",
+      "description": "The Lounge, modern web IRC client designed for self-hosting\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/thelounge.png",
+      "latest_ver": "6.0.8",
+      "vers": [
+        "6.0.8"
+      ]
+    },
+    {
+      "name": "tinymediamanager",
+      "description": "TinyMediaManager is a full featured media manager to organize and clean up your media library.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/tinymediamanager.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "traccar",
+      "description": "Traccar is an open source GPS tracking system.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/traccar.png",
+      "latest_ver": "7.0.9",
+      "vers": [
+        "7.0.9"
+      ]
+    },
+    {
+      "name": "traefik",
+      "description": "Traefik is a flexible reverse proxy and Ingress Provider.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/traefik.png",
+      "latest_ver": "12.0.11",
+      "vers": [
+        "12.0.10",
+        "12.0.11"
+      ]
+    },
+    {
+      "name": "transmission",
+      "description": "API Support for your favorite torrent trackers.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/transmission.png",
+      "latest_ver": "12.0.8",
+      "vers": [
+        "12.0.7",
+        "12.0.8"
+      ]
+    },
+    {
+      "name": "trilium-notes",
+      "description": "Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/trilium-notes.png",
+      "latest_ver": "5.0.8",
+      "vers": [
+        "5.0.8"
+      ]
+    },
+    {
+      "name": "truecommand",
+      "description": "Aggregated management of TrueNAS devices\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/truecommand.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "tt-rss",
+      "description": "Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/tt-rss.png",
+      "latest_ver": "7.0.9",
+      "vers": [
+        "7.0.9"
+      ]
+    },
+    {
+      "name": "tvheadend",
+      "description": "TVheadend - a TV streaming server and digital video recorder\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/tvheadend.png",
+      "latest_ver": "12.0.8",
+      "vers": [
+        "12.0.7",
+        "12.0.8"
+      ]
+    },
+    {
+      "name": "twtxt",
+      "description": "A Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/twtxt.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "typecho",
+      "description": "Typecho is a PHP Blogging Platform.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/typecho.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "ubooquity",
+      "description": "Ubooquity is a free, lightweight and easy-to-use home server for your comics and ebooks.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/ubooquity.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "unifi",
+      "description": "Ubiquiti Network's Unifi Controller\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/unifi.png",
+      "latest_ver": "11.0.8",
+      "vers": [
+        "11.0.7",
+        "11.0.8"
+      ]
+    },
+    {
+      "name": "unmanic",
+      "description": "Unmanic is a simple tool for optimising your file library.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/unmanic.png",
+      "latest_ver": "3.0.8",
+      "vers": [
+        "3.0.8"
+      ]
+    },
+    {
+      "name": "unpackerr",
+      "description": "This application runs as a daemon on your download host. It checks for completed downloads and extracts them so Radarr, Lidarr, Sonarr, and Readarr may import them\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/unpackerr.png",
+      "latest_ver": "6.0.8",
+      "vers": [
+        "6.0.8"
+      ]
+    },
+    {
+      "name": "unpoller",
+      "description": "Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/unpoller.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/uptime-kuma.png",
+      "latest_ver": "3.0.9",
+      "vers": [
+        "3.0.9"
+      ]
+    },
+    {
+      "name": "uptimerobot-prometheus",
+      "description": "Prometheus Exporter for the official uptimerobot CLI\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/uptimerobot-prometheus.png",
+      "latest_ver": "4.0.10",
+      "vers": [
+        "4.0.10"
+      ]
+    },
+    {
+      "name": "valheim",
+      "description": "Valheim dedicated gameserver with automatic update and world backup support\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/valheim.png",
+      "latest_ver": "3.0.11",
+      "vers": [
+        "3.0.11"
+      ]
+    },
+    {
+      "name": "vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/vaultwarden.png",
+      "latest_ver": "16.0.9",
+      "vers": [
+        "16.0.7",
+        "16.0.8",
+        "16.0.9"
+      ]
+    },
+    {
+      "name": "verysync",
+      "description": "very sync is an easy-to-use multi-platform file synchronization software\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/verysync.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "vikunja",
+      "description": "The to-do app to organize your life.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/vikunja.png",
+      "latest_ver": "3.0.12",
+      "vers": [
+        "3.0.12"
+      ]
+    },
+    {
+      "name": "webgrabplus",
+      "description": "Webgrabplus is a multi-site incremental xmltv epg grabber.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/webgrabplus.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "weblate",
+      "description": "Weblate is a copylefted libre software web-based continuous localization system\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/weblate.png",
+      "latest_ver": "4.0.10",
+      "vers": [
+        "4.0.10"
+      ]
+    },
+    {
+      "name": "website-shot",
+      "description": "Generate a full web-page screenshot with our service, that provides rich interface to make any kind of web screenshots online for free with no limits. The simplest way to take a full page screenshot.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/website-shot.png",
+      "latest_ver": "2.0.9",
+      "vers": [
+        "2.0.9"
+      ]
+    },
+    {
+      "name": "wekan",
+      "description": "WeKan - Open Source kanban\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/wekan.png",
+      "latest_ver": "4.0.12",
+      "vers": [
+        "4.0.12"
+      ]
+    },
+    {
+      "name": "wg-easy",
+      "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/wg-easy.png",
+      "latest_ver": "1.0.1",
+      "vers": [
+        "1.0.1"
+      ]
+    },
+    {
+      "name": "whoogle",
+      "description": "A self-hosted, ad-free, privacy-respecting metasearch engine\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/whoogle.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "wikijs",
+      "description": "Make documentation a joy to write using Wiki.js's beautiful and intuitive interface!\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/wikijs.png",
+      "latest_ver": "7.0.10",
+      "vers": [
+        "7.0.10"
+      ]
+    },
+    {
+      "name": "wireshark",
+      "description": "Wireshark is the world’s foremost and widely-used network protocol analyzer.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/wireshark.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "xbackbone",
+      "description": "XBackBone is a simple, self-hosted, lightweight PHP file manager\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/xbackbone.png",
+      "latest_ver": "3.0.10",
+      "vers": [
+        "3.0.10"
+      ]
+    },
+    {
+      "name": "xteve",
+      "description": "M3U Proxy for Plex DVR and Emby Live TV.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/xteve.png",
+      "latest_ver": "6.0.9",
+      "vers": [
+        "6.0.9"
+      ]
+    },
+    {
+      "name": "xwiki",
+      "description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/xwiki.png",
+      "latest_ver": "3.0.12",
+      "vers": [
+        "3.0.12"
+      ]
+    },
+    {
+      "name": "zerotier",
+      "description": "ZeroTier is a smart programmable Ethernet switch for planet Earth\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/zerotier.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "zigbee2mqtt",
+      "description": "Bridges events and allows you to control your Zigbee devices via MQTT\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/zigbee2mqtt.png",
+      "latest_ver": "4.0.10",
+      "vers": [
+        "4.0.10"
+      ]
+    },
+    {
+      "name": "znc",
+      "description": "Znc is an IRC network bouncer or BNC. It can detach the client from the actual IRC server, and also from selected channels.\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/znc.png",
+      "latest_ver": "2.0.8",
+      "vers": [
+        "2.0.8"
+      ]
+    },
+    {
+      "name": "zwavejs2mqtt",
+      "description": "Fully configurable Zwave to MQTT gateway and Control Panel using NodeJS and Vue\n\nThis App is supplied by TrueCharts, for more information please visit https://truecharts.org\n",
+      "dir": "stable",
+      "icon": "https://truecharts.org/_static/img/appicons/zwavejs2mqtt.png",
+      "latest_ver": "11.0.11",
+      "vers": [
+        "11.0.10",
+        "11.0.11"
+      ]
+    }
+  ]
+}
